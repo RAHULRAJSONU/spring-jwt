@@ -1,0 +1,8 @@
+io/javabrains/springsecurityjwt/models/AuthenticationRequest.class
+io/javabrains/springsecurityjwt/models/AuthenticationResponse.class
+io/javabrains/springsecurityjwt/MyUserDetailsService.class
+io/javabrains/springsecurityjwt/HelloWorldController.class
+io/javabrains/springsecurityjwt/filters/JwtRequestFilter.class
+io/javabrains/springsecurityjwt/util/JwtUtil.class
+io/javabrains/springsecurityjwt/SpringSecurityJwtApplication.class
+io/javabrains/springsecurityjwt/WebSecurityConfig.class
