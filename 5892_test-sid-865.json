@@ -1,0 +1,17 @@
+{ 
+	"segment-name": "Test-name",
+ 	"channels": 
+	[ 
+		{
+			"app-id" : 111,
+			"app-id" : 222
+		},
+		{
+			"app-id": 333,
+			"ad-account-id": 444
+		},
+		{
+			"app-id": 555
+		}
+	]
+}
